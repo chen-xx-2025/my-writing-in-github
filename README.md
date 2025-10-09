@@ -1,5 +1,3 @@
 # my-writing-in-github
-- 标题1
-- 标题2
-1. bbb
-2. djdd
+
+[Markdown使用方法](https://blog.csdn.net/weixin_72255945/article/details/147932827)
